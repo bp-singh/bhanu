@@ -1,2 +1,1 @@
-# bhanu
-git repo to create static web page for own portfoliio using github actions. 
+This Repo is created for making portfolio using git hub actions , static web page.
