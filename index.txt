@@ -1,9 +1,9 @@
-vCard - Personal Portfolio
+Bhanu Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Bhanu Pratap Singh
+Bhanu Pratap Singh
 Web developer
 
 Show Contacts
